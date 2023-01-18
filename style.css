@@ -1,0 +1,54 @@
+#login-btn {
+  width: 150px;
+  background-image: url("img1.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right: 5px;
+  box-shadow: 2px 1px;
+  background-color: rgb(236, 236, 236);
+  padding: 2px;
+  font-size: medium;
+  background-position: left;
+}
+form {
+  display: inline-block;
+}
+#header {
+  margin-top: 60px;
+  display: block;
+}
+#header a {
+  color: blue;
+  font-size: larger;
+  font-weight: bolder;
+}
+#header img {
+  margin-top: 20px;
+  display: block;
+  width: 99vw;
+}
+hr {
+  margin-top: 40px;
+}
+#title-reg {
+  text-decoration: underline;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+#label-style {
+  margin-right: 49px;
+  tab-size: 8;
+  display: inline-block;
+}
+#addr-form {
+  display: inline-block;
+}
+#addres-opt {
+  display: inline-block;
+}
+.address-center {
+  vertical-align: super;
+}
+#register-btn {
+  margin-top: 10px;
+}
